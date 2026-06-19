@@ -45,3 +45,4 @@ SOC detection engineering with Splunk · vulnerability management with **Tenable
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai.pro@proton.me
+ 
