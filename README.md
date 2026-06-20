@@ -18,7 +18,6 @@ I work hands-on with SIEM, IDS, and threat-intel tooling, and I document everyth
 ### 🛡️ What I do
 | Area | Tools & Skills |
 |------|----------------|
-| **SIEM / Monitoring** | Splunk, Security Onion, log analysis, alert triage, SIEM tuning |
 | **Detection / IDS** | Snort, YARA, MITRE ATT&CK mapping, detection engineering |
 | **Threat Intelligence** | OpenCTI, VirusTotal, URLScan, Shodan, STIX, IOC analysis |
 | **Network / Forensics** | Wireshark, Nmap, packet analysis, Sysmon |
