@@ -9,7 +9,7 @@
 [![PCEP](https://img.shields.io/badge/Python-PCEP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/3d3e28ef-1e15-46ef-bbd1-4a45c08005e8/public_url)
 [![eJPT](https://img.shields.io/badge/eLearnSecurity-eJPT-7C3AED?style=flat-square)](https://certs.ine.com/61af03e5-510c-4290-bb7c-78fe81c888a7#acc.93VykGjm)
 
-Cybersecurity analyst focused on **defensive security** — detecting threats, investigating incidents, and turning raw telemetry into action. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)** while building and breaking things in my home SOC lab.
+Cybersecurity analyst focused on **defensive security** — detecting threats, investigating incidents, and turning raw telemetry into action. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)** while building and breaking things in hands-on labs.
 
 I work hands-on with SIEM, IDS, and threat-intel tooling, and I document everything I build — the repos below are real labs and investigations, not tutorials copied verbatim.
 
