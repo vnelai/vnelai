@@ -1,6 +1,6 @@
 # Hi, I'm Virginia 👋 | Cybersecurity Analyst
 
-**Threat Detection · Incident Response · Malware Analysis · Threat Intelligence**
+**Vulnerability Management · Cloud Security · Threat Intelligence · Detection**
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=flat-square)](https://www.credly.com/badges/646c6c0a-9c31-4dd7-901e-188117ba441c/public_url)
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E2231A?style=flat-square)](https://www.credly.com/badges/e54f0048-99af-4bf2-a4d8-6921162577f2/public_url)
@@ -9,21 +9,21 @@
 [![PCEP](https://img.shields.io/badge/Python-PCEP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/3d3e28ef-1e15-46ef-bbd1-4a45c08005e8/public_url)
 [![eJPT](https://img.shields.io/badge/eLearnSecurity-eJPT-7C3AED?style=flat-square)](https://certs.ine.com/61af03e5-510c-4290-bb7c-78fe81c888a7#acc.93VykGjm)
 
-Cybersecurity analyst focused on **defensive security** — detecting threats, investigating incidents, and turning raw telemetry into action. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)** while building and breaking things in hands-on labs.
+Cybersecurity analyst focused on **vulnerability management and cloud security** — finding and fixing weaknesses across cloud environments and systems before attackers can. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)** while building and breaking things in hands-on labs.
 
-I work hands-on with SIEM, IDS, and threat-intel tooling, and I document everything I build — the repos below are real labs and investigations, not tutorials copied verbatim.
+I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and I document everything I build — the repos below are real labs and investigations, not tutorials copied verbatim.
 
 ---
 
 ### 🛡️ What I do
 | Area | Tools & Skills |
 |------|----------------|
+| **Vuln Management** | Tenable (Nessus), OpenVAS, CIS Benchmarks |
+| **Cloud** | AWS (IAM, CloudTrail, Security Hub, Shield, GuardDuty) · Azure (VMs) |
 | **Detection / IDS** | Snort, YARA, MITRE ATT&CK mapping, detection engineering |
 | **Threat Intelligence** | OpenCTI, VirusTotal, URLScan, Shodan, STIX, IOC analysis |
 | **Network / Forensics** | Wireshark, Nmap, packet analysis, Sysmon |
-| **Vuln Management** | Tenable (Nessus), OpenVAS, CIS Benchmarks |
 | **Offensive / Purple** | eJPT-level pentest fundamentals, attack emulation to sharpen detection |
-| **Cloud** | AWS (IAM, CloudTrail, Security Hub, Shield, GuardDuty) · Azure (VMs) |
 | **Scripting** | Python, PowerShell, Bash |
 
 ### 📌 Featured projects
@@ -41,7 +41,7 @@ I work hands-on with SIEM, IDS, and threat-intel tooling, and I document everyth
 - 🔗 **[Verify all my certifications on Credly](https://www.credly.com/users/virginia-nelai)**
 
 ### 🌱 Currently focused on
-SOC detection engineering with Splunk · vulnerability management with **Tenable** · MITRE ATT&CK-driven threat hunting · **cloud security (AWS & Azure)** · building a **purple-team** edge — using offensive techniques to make detections better.
+**Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · CIS Benchmarks · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai.pro@proton.me
