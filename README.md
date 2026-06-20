@@ -28,6 +28,7 @@ I work hands-on with SIEM, IDS, and threat-intel tooling, and I document everyth
 | **Scripting** | Python, PowerShell, Bash |
 
 ### 📌 Featured projects
+- 🔓 **[Vulnerability Assessment Labs](https://github.com/vnelai/vulnerability-assessment-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
 - 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
 - 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)** — writing IDS rules and detecting live attacks.
 - 🧬 **[YARA Malware Detection](https://github.com/vnelai/yara-malware-detection)** — malware detection with YARA, LOKI, yarGen.
