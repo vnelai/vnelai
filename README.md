@@ -1,4 +1,4 @@
-# Hi, I'm Virginia 👋 | Cyber Analyst
+# Hi, I'm Virginia 👋 | Cybersecurity Analyst
 
 **Threat Detection · Incident Response · Malware Analysis · Threat Intelligence**
 
