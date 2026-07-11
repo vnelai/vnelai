@@ -44,4 +44,4 @@ I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and 
 **Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · CIS Benchmarks · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai.pro@proton.me
+[LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai@proton.me
