@@ -27,6 +27,7 @@ I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and 
 | **Scripting** | Python, PowerShell, Bash |
 
 ### 📌 Featured projects
+- 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 85% reduction.
 - 🔓 **[Vulnerability Assessment Labs](https://github.com/vnelai/vulnerability-assessment-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
 - 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
 - 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)** — writing IDS rules and detecting live attacks.
