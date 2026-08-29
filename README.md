@@ -1,6 +1,6 @@
 # Hi, I'm Virginia 👋 | Cybersecurity Analyst
 
-**Vulnerability Management · Cloud Security · Threat Intelligence · Detection**
+**Vulnerability Management · Cloud Security · Threat Hunting · Threat Intelligence**
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=flat-square)](https://www.credly.com/badges/646c6c0a-9c31-4dd7-901e-188117ba441c/public_url)
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E2231A?style=flat-square)](https://www.credly.com/badges/e54f0048-99af-4bf2-a4d8-6921162577f2/public_url)
@@ -21,6 +21,7 @@ I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and 
 | **Vuln Management** | Tenable (Nessus), OpenVAS, CIS Benchmarks |
 | **Cloud** | AWS (IAM, CloudTrail, Security Hub, Shield, GuardDuty) · Azure (VMs) |
 | **Detection / IDS** | Snort, YARA, MITRE ATT&CK mapping, detection engineering |
+| **Threat Hunting** | Microsoft Sentinel & KQL, Microsoft Defender for Endpoint (MDE), Living-Off-The-Land (LOLBin) Detection, Lateral Movement Analysis, AI Prompt-Injection Attack Analysis, OSINT-Driven Reconnaissance Reconstruction |
 | **Threat Intelligence** | OpenCTI, VirusTotal, URLScan, Shodan, STIX, IOC analysis |
 | **Network / Forensics** | Wireshark, Nmap, packet analysis, Sysmon |
 | **Offensive / Purple** | eJPT-level pentest fundamentals, attack emulation to sharpen detection |
@@ -28,7 +29,8 @@ I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and 
 
 ### 📌 Featured projects
 - 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 85% reduction.
-- 🔓 **[Vulnerability Assessment Labs](https://github.com/vnelai/vulnerability-assessment-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
+- 🎯 **[Threat Hunting Labs](https://github.com/vnelai/threat-hunting-labs)** — DFIR-style investigations in Microsoft Sentinel & Defender for Endpoint: a valid account compromise, an AI prompt-injection intrusion that reached a domain controller, and an OSINT-driven credential-reuse hunt that started on a public LinkedIn profile.
+- 🔓 **[Vulnerability Management Labs](https://github.com/vnelai/vulnerability-management-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
 - 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
 - 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)** — writing IDS rules and detecting live attacks.
 - 🧬 **[YARA Malware Detection](https://github.com/vnelai/yara-malware-detection)** — malware detection with YARA, LOKI, yarGen.
@@ -42,7 +44,7 @@ I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and 
 - 🔗 **[Verify all my certifications on Credly](https://www.credly.com/users/virginia-nelai)**
 
 ### 🌱 Currently focused on
-**Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · CIS Benchmarks · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
+**Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · SIEM-based threat hunting in **Microsoft Sentinel & MDE** · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai@proton.me
