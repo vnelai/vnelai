@@ -9,9 +9,9 @@
 [![PCEP](https://img.shields.io/badge/Python-PCEP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/3d3e28ef-1e15-46ef-bbd1-4a45c08005e8/public_url)
 [![eJPT](https://img.shields.io/badge/eLearnSecurity-eJPT-7C3AED?style=flat-square)](https://certs.ine.com/61af03e5-510c-4290-bb7c-78fe81c888a7#acc.93VykGjm)
 
-Cybersecurity analyst focused on **vulnerability management and cloud security**. Finding and fixing weaknesses across cloud environments and systems before attackers can. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)** while building and breaking things in hands-on labs.
+Cybersecurity analyst who runs **threat hunts** in Microsoft Sentinel and Defender for Endpoint, tracing intrusions from a valid account compromise to a novel AI prompt-injection attack that reached a domain controller. I also do hands-on **vulnerability management** work, scanning, remediation, DISA STIG compliance, and built a full vulnerability management program from policy through CAB-approved remediation. I'm building out **cloud security posture** work on AWS and Azure. Currently pursuing an **M.S. in Cybersecurity at NYU (Cyber Fellows, scholarship)**.
 
-I work hands-on with vulnerability scanning, IDS, and threat-intel tooling, and I document everything I build — the repos below are real labs and investigations, not tutorials copied verbatim.
+I document everything I build.
 
 ---
 
