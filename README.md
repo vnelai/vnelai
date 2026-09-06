@@ -1,4 +1,4 @@
-# Hi, I'm Virginia 👋 | Cybersecurity Analyst
+# Hi, I'm Gina 👋 | Cybersecurity Analyst
 
 **Vulnerability Management · Cloud Security · Threat Hunting · Threat Intelligence**
 
