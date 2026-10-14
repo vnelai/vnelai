@@ -28,7 +28,7 @@ I document everything I build.
 | **Scripting** | Python, PowerShell, Bash |
 
 ### 📌 Featured projects
-- 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 85% reduction.
+- 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 87% reduction.
 - 🎯 **[Threat Hunting Labs](https://github.com/vnelai/threat-hunting-labs)** — DFIR-style investigations in Microsoft Sentinel & Defender for Endpoint: a valid account compromise, an AI prompt-injection intrusion that reached a domain controller, and an OSINT-driven credential-reuse hunt that started on a public LinkedIn profile.
 - 🔓 **[Vulnerability Management Labs](https://github.com/vnelai/vulnerability-management-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
 - 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
