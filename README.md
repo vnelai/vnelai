@@ -47,4 +47,4 @@ I document everything I build.
 **Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · SIEM-based threat hunting in **Microsoft Sentinel & MDE** · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai@proton.me
+[LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai+github@proton.me
