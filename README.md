@@ -30,6 +30,7 @@ I document everything I build.
 ### 📌 Featured projects
 - 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 87% reduction.
 - 🎯 **[Threat Hunting Labs](https://github.com/vnelai/threat-hunting-labs)** — DFIR-style investigations in Microsoft Sentinel & Defender for Endpoint: a valid account compromise, an AI prompt-injection intrusion that reached a domain controller, and an OSINT-driven credential-reuse hunt that started on a public LinkedIn profile.
+- 🧠 **[Detection Engineering](https://github.com/vnelai/detection-engineering)** - Sentinel KQL detection rules built from a threat hunt, tested on the attack day and backtested over months of normal logs, on a cyber range.
 - 🔓 **[Vulnerability Management Labs](https://github.com/vnelai/vulnerability-management-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
 - 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
 - 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)** — writing IDS rules and detecting live attacks.
