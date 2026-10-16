@@ -13,6 +13,9 @@ Cybersecurity analyst who runs **threat hunts** in Microsoft Sentinel and Defend
 
 I document everything I build.
 
+<p align="center"><img src="images/hidden-directive-timeline.png" width="900" alt="Timeline of Microsoft Sentinel alerts from the Hidden Directive threat hunt, from first compromise to persistence"></p>
+<p align="center"><sub>The alert timeline from my Hidden Directive hunt in Microsoft Sentinel.</sub></p>
+
 ---
 
 ### 🛡️ What I do
@@ -28,24 +31,24 @@ I document everything I build.
 | **Scripting** | Python, PowerShell, Bash |
 
 ### 📌 Featured projects
-- 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)** — full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 87% reduction.
-- 🎯 **[Threat Hunting Labs](https://github.com/vnelai/threat-hunting-labs)** — DFIR-style investigations in Microsoft Sentinel & Defender for Endpoint: a valid account compromise, an AI prompt-injection intrusion that reached a domain controller, and an OSINT-driven credential-reuse hunt that started on a public LinkedIn profile.
+- 🛡️ **[Vulnerability Management Program Implementation](https://github.com/vnelai/vulnerability-management-program)**: full VM program from policy through a complete remediation cycle: governance, CAB, six tracked fixes, 87% reduction.
+- 🎯 **[Threat Hunting Labs](https://github.com/vnelai/threat-hunting-labs)**: DFIR-style investigations in Microsoft Sentinel & Defender for Endpoint: a valid account compromise, an AI prompt-injection intrusion that reached a domain controller, and an OSINT-driven credential-reuse hunt that started on a public LinkedIn profile.
 - 🧠 **[Detection Engineering](https://github.com/vnelai/detection-engineering)** - Sentinel KQL detection rules built from a threat hunt, tested on the attack day and backtested over months of normal logs, on a cyber range.
-- 🔓 **[Vulnerability Management Labs](https://github.com/vnelai/vulnerability-management-labs)** — Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
-- 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)** — threat-intel investigation: APT TTPs, malware, STIX.
-- 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)** — writing IDS rules and detecting live attacks.
-- 🧬 **[YARA Malware Detection](https://github.com/vnelai/yara-malware-detection)** — malware detection with YARA, LOKI, yarGen.
-- 🕵️ **[Cyber Threat Investigations](https://github.com/vnelai/cyber-threat-investigations-)** — end-to-end threat investigations.
-- ⏱️ **[Friday Overtime CTI Lab](https://github.com/vnelai/friday-overtime-cti-lab)** — CTI scenario investigation.
+- 🔓 **[Vulnerability Management Labs](https://github.com/vnelai/vulnerability-management-labs)**: Tenable scans on Azure Windows & Linux VMs: authenticated vs unauthenticated, findings analysis, and remediation.
+- 🔎 **[OpenCTI Investigation Lab](https://github.com/vnelai/opencti-investigation-lab)**: threat-intel investigation: APT TTPs, malware, STIX.
+- 🚨 **[Snort Live Attack Detection](https://github.com/vnelai/snort-live-attack-detection)**: writing IDS rules and detecting live attacks.
+- 🧬 **[YARA Malware Detection](https://github.com/vnelai/yara-malware-detection)**: malware detection with YARA, LOKI, yarGen.
+- 🕵️ **[Cyber Threat Investigations](https://github.com/vnelai/cyber-threat-investigations-)**: end-to-end threat investigations.
+- ⏱️ **[Friday Overtime CTI Lab](https://github.com/vnelai/friday-overtime-cti-lab)**: CTI scenario investigation.
 
 ### 🎓 Certifications & education
 - CompTIA **Security+**, **Network+**, **A+**, **ITF+**
 - **AWS Certified Cloud Practitioner** · **PCEP** (Python) · **eJPT** (eLearnSecurity Junior Penetration Tester)
-- **M.S. Cybersecurity** — NYU Cyber Fellows *(in progress)* · **Software Engineering** — Per Scholas (15-week intensive, Valedictorian) · **B.A. Biology** — CUNY Lehman (Summa Cum Laude)
+- **M.S. Cybersecurity**, NYU Cyber Fellows *(in progress)* · **Software Engineering**, Per Scholas (15-week intensive, Valedictorian) · **B.A. Biology**, CUNY Lehman (Summa Cum Laude)
 - 🔗 **[Verify all my certifications on Credly](https://www.credly.com/users/virginia-nelai)**
 
 ### 🌱 Currently focused on
-**Cloud security posture (AWS — Prowler / CSPM)** · vulnerability management with **Tenable** · SIEM-based threat hunting in **Microsoft Sentinel & MDE** · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
+**Cloud security posture (AWS, Prowler / CSPM)** · vulnerability management with **Tenable** · SIEM-based threat hunting in **Microsoft Sentinel & MDE** · MITRE ATT&CK mapping · building a **purple-team** edge (eJPT).
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/virginianelai/) · [Portfolio](https://www.virginianelai.com) · 📧 vnelai+github@proton.me
